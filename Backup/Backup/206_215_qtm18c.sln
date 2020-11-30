@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio Version 10
+VisualStudioVersion = 10.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "206_215_qtm18c", "206_215_qtm18c\206_215_qtm18c.csproj", "{BCE4B7C0-F0CE-4C91-8483-F96C847BCDB9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BCE4B7C0-F0CE-4C91-8483-F96C847BCDB9}.Debug|x86.ActiveCfg = Debug|x86
+		{BCE4B7C0-F0CE-4C91-8483-F96C847BCDB9}.Debug|x86.Build.0 = Debug|x86
+		{BCE4B7C0-F0CE-4C91-8483-F96C847BCDB9}.Release|x86.ActiveCfg = Release|x86
+		{BCE4B7C0-F0CE-4C91-8483-F96C847BCDB9}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A0D92D4A-71D6-46C8-9702-293B19A44CF6}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="206_215_qtm18c">
+</Property><Property Name="Solution File" Value="D:\nam18c\QuanLyCuaHangDT\206_215_qtm18c.sln">
+</Property><Property Name="User Options File" Value="D:\nam18c\QuanLyCuaHangDT\206_215_qtm18c.suo">
+</Property><Property Name="Date" Value="Monday, November, 2020">
+</Property><Property Name="Time" Value="9:22 AM">
+</Property><Property Name="Log Number" Value="2">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="206_215_qtm18c.sln" Description="File successfully backed up as D:\nam18c\QuanLyCuaHangDT\Backup\206_215_qtm18c.sln">
+</Event><Event ErrorLevel="0" Project="" Source="206_215_qtm18c.suo" Description="File successfully backed up as D:\nam18c\QuanLyCuaHangDT\Backup\206_215_qtm18c.suo">
+</Event><Event ErrorLevel="0" Project="206_215_qtm18c" Source="206_215_qtm18c\206_215_qtm18c.csproj" Description="Project file successfully backed up as D:\nam18c\QuanLyCuaHangDT\Backup\206_215_qtm18c\206_215_qtm18c.csproj">
+</Event><Event ErrorLevel="0" Project="206_215_qtm18c" Source="206_215_qtm18c\206_215_qtm18c.csproj.user" Description="Project user file successfully backed up as D:\nam18c\QuanLyCuaHangDT\Backup\206_215_qtm18c\206_215_qtm18c.csproj.user">
+</Event><Event ErrorLevel="0" Project="206_215_qtm18c" Source="206_215_qtm18c\Class\Functions.cs" Description="File successfully backed up as D:\nam18c\QuanLyCuaHangDT\Backup\206_215_qtm18c\Class\Functions.cs">
+</Event><Event ErrorLevel="0" Project="206_215_qtm18c" Source="206_215_qtm18c\Form\frmDMNhaCC.cs" Description="File successfully backed up as D:\nam18c\QuanLyCuaHangDT\Backup\206_215_qtm18c\Form\frmDMNhaCC.cs">
+</Event><Event ErrorLevel="0" Project="206_215_qtm18c" Source="206_215_qtm18c\Form\frmDMNhaCC.Designer.cs" Description="File successfully backed up as D:\nam18c\QuanLyCuaHangDT\Backup\206_215_qtm18c\Form\frmDMNhaCC.Designer.cs">
+</Event><Event ErrorLevel="0" Project="206_215_qtm18c" Source="206_215_qtm18c\Form\frmDMDienThoai.cs" Description="File successfully backed up as D:\nam18c\QuanLyCuaHangDT\Backup\206_215_qtm18c\Form\frmDMDienThoai.cs">
+</Event><Event ErrorLevel="0" Project="206_215_qtm18c" Source="206_215_qtm18c\Form\frmDMDienThoai.Designer.cs" Description="File successfully backed up as D:\nam18c\QuanLyCuaHangDT\Backup\206_215_qtm18c\Form\frmDMDienThoai.Designer.cs">
+</Event><Event ErrorLevel="0" Project="206_215_qtm18c" Source="206_215_qtm18c\Form\frmHoadonBan.cs" Description="File successfully backed up as D:\nam18c\QuanLyCuaHangDT\Backup\206_215_qtm18c\Form\frmHoadonBan.cs">
+</Event><Event ErrorLevel="0" Project="206_215_qtm18c" Source="206_215_qtm18c\Form\frmHoadonBan.Designer.cs" Description="File successfully backed up as D:\nam18c\QuanLyCuaHangDT\Backup\206_215_qtm18c\Form\frmHoadonBan.Designer.cs">
+</Event><Event ErrorLevel="0" Project="206_215_qtm18c" Source="206_215_qtm18c\Form\frmDMKhachHang.cs" Description="File successfully backed up as D:\nam18c\QuanLyCuaHangDT\Backup\206_215_qtm18c\Form\frmDMKhachHang.cs">
+</Event><Event ErrorLevel="0" Project="206_215_qtm18c" Source="206_215_qtm18c\Form\frmDMKhachHang.Designer.cs" Description="File successfully backed up as D:\nam18c\QuanLyCuaHangDT\Backup\206_215_qtm18c\Form\frmDMKhachHang.Designer.cs">
+</Event><Event ErrorLevel="0" Project="206_215_qtm18c" Source="206_215_qtm18c\frmLogin.cs" Description="File successfully backed up as D:\nam18c\QuanLyCuaHangDT\Backup\206_215_qtm18c\frmLogin.cs">
+</Event><Event ErrorLevel="0" Project="206_215_qtm18c" Source="206_215_qtm18c\frmLogin.Designer.cs" Description="File successfully backed up as D:\nam18c\QuanLyCuaHangDT\Backup\206_215_qtm18c\frmLogin.Designer.cs">
+</Event><Event ErrorLevel="0" Project="206_215_qtm18c" Source="206_215_qtm18c\frmMain.cs" Description="File successfully backed up as D:\nam18c\QuanLyCuaHangDT\Backup\206_215_qtm18c\frmMain.cs">
+</Event><Event ErrorLevel="0" Project="206_215_qtm18c" Source="206_215_qtm18c\frmMain.Designer.cs" Description="File successfully backed up as D:\nam18c\QuanLyCuaHangDT\Backup\206_215_qtm18c\frmMain.Designer.cs">
+</Event><Event ErrorLevel="0" Project="206_215_qtm18c" Source="206_215_qtm18c\Form\frmDMNhanVien.cs" Description="File successfully backed up as D:\nam18c\QuanLyCuaHangDT\Backup\206_215_qtm18c\Form\frmDMNhanVien.cs">
+</Event><Event ErrorLevel="0" Project="206_215_qtm18c" Source="206_215_qtm18c\Form\frmDMNhanVien.Designer.cs" Description="File successfully backed up as D:\nam18c\QuanLyCuaHangDT\Backup\206_215_qtm18c\Form\frmDMNhanVien.Designer.cs">
+</Event><Event ErrorLevel="0" Project="206_215_qtm18c" Source="206_215_qtm18c\Form\frmTimHDBan.cs" Description="File successfully backed up as D:\nam18c\QuanLyCuaHangDT\Backup\206_215_qtm18c\Form\frmTimHDBan.cs">
+</Event><Event ErrorLevel="0" Project="206_215_qtm18c" Source="206_215_qtm18c\Form\frmTimHDBan.Designer.cs" Description="File successfully backed up as D:\nam18c\QuanLyCuaHangDT\Backup\206_215_qtm18c\Form\frmTimHDBan.Designer.cs">
+</Event><Event ErrorLevel="0" Project="206_215_qtm18c" Source="206_215_qtm18c\FrmMenu.cs" Description="File successfully backed up as D:\nam18c\QuanLyCuaHangDT\Backup\206_215_qtm18c\FrmMenu.cs">
+</Event><Event ErrorLevel="0" Project="206_215_qtm18c" Source="206_215_qtm18c\Program.cs" Description="File successfully backed up as D:\nam18c\QuanLyCuaHangDT\Backup\206_215_qtm18c\Program.cs">
+</Event><Event ErrorLevel="0" Project="206_215_qtm18c" Source="206_215_qtm18c\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\nam18c\QuanLyCuaHangDT\Backup\206_215_qtm18c\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="206_215_qtm18c" Source="206_215_qtm18c\Class\SqlHelper.cs" Description="File successfully backed up as D:\nam18c\QuanLyCuaHangDT\Backup\206_215_qtm18c\Class\SqlHelper.cs">
+</Event><Event ErrorLevel="0" Project="206_215_qtm18c" Source="206_215_qtm18c\Properties\Resources.Designer.cs" Description="File successfully backed up as D:\nam18c\QuanLyCuaHangDT\Backup\206_215_qtm18c\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="206_215_qtm18c" Source="206_215_qtm18c\Properties\Settings.Designer.cs" Description="File successfully backed up as D:\nam18c\QuanLyCuaHangDT\Backup\206_215_qtm18c\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="206_215_qtm18c" Source="206_215_qtm18c\packages.config" Description="File successfully backed up as D:\nam18c\QuanLyCuaHangDT\Backup\206_215_qtm18c\packages.config">
+</Event><Event ErrorLevel="0" Project="206_215_qtm18c" Source="206_215_qtm18c\Properties\Settings.settings" Description="File successfully backed up as D:\nam18c\QuanLyCuaHangDT\Backup\206_215_qtm18c\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="206_215_qtm18c" Source="206_215_qtm18c\Form\frmDMDienThoai.resx" Description="File successfully backed up as D:\nam18c\QuanLyCuaHangDT\Backup\206_215_qtm18c\Form\frmDMDienThoai.resx">
+</Event><Event ErrorLevel="0" Project="206_215_qtm18c" Source="206_215_qtm18c\Form\frmDMKhachHang.resx" Description="File successfully backed up as D:\nam18c\QuanLyCuaHangDT\Backup\206_215_qtm18c\Form\frmDMKhachHang.resx">
+</Event><Event ErrorLevel="0" Project="206_215_qtm18c" Source="206_215_qtm18c\Form\frmHoadonBan.resx" Description="File successfully backed up as D:\nam18c\QuanLyCuaHangDT\Backup\206_215_qtm18c\Form\frmHoadonBan.resx">
+</Event><Event ErrorLevel="0" Project="206_215_qtm18c" Source="206_215_qtm18c\Form\frmDMNhaCC.resx" Description="File successfully backed up as D:\nam18c\QuanLyCuaHangDT\Backup\206_215_qtm18c\Form\frmDMNhaCC.resx">
+</Event><Event ErrorLevel="0" Project="206_215_qtm18c" Source="206_215_qtm18c\Form\frmTimHDBan.resx" Description="File successfully backed up as D:\nam18c\QuanLyCuaHangDT\Backup\206_215_qtm18c\Form\frmTimHDBan.resx">
+</Event><Event ErrorLevel="0" Project="206_215_qtm18c" Source="206_215_qtm18c\frmLogin.resx" Description="File successfully backed up as D:\nam18c\QuanLyCuaHangDT\Backup\206_215_qtm18c\frmLogin.resx">
+</Event><Event ErrorLevel="0" Project="206_215_qtm18c" Source="206_215_qtm18c\frmMain.resx" Description="File successfully backed up as D:\nam18c\QuanLyCuaHangDT\Backup\206_215_qtm18c\frmMain.resx">
+</Event><Event ErrorLevel="0" Project="206_215_qtm18c" Source="206_215_qtm18c\Form\frmDMNhanVien.resx" Description="File successfully backed up as D:\nam18c\QuanLyCuaHangDT\Backup\206_215_qtm18c\Form\frmDMNhanVien.resx">
+</Event><Event ErrorLevel="0" Project="206_215_qtm18c" Source="206_215_qtm18c\Properties\Resources.resx" Description="File successfully backed up as D:\nam18c\QuanLyCuaHangDT\Backup\206_215_qtm18c\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="206_215_qtm18c" Source="206_215_qtm18c\206_215_qtm18c.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="206_215_qtm18c" Source="206_215_qtm18c\206_215_qtm18c.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="" Source="206_215_qtm18c.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="206_215_qtm18c.sln" Description="Converted">
+</Event></UpgradeLog>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="206_215_qtm18c">
+</Property><Property Name="Solution File" Value="D:\nam18c\QuanLyCuaHangDT\206_215_qtm18c.sln">
+</Property><Property Name="Date" Value="Friday, November, 2020">
+</Property><Property Name="Time" Value="13:46 PM">
+</Property></Properties><Event ErrorLevel="0" Project="206_215_qtm18c" Source="206_215_qtm18c\206_215_qtm18c.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="206_215_qtm18c" Source="206_215_qtm18c\206_215_qtm18c.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="" Source="206_215_qtm18c.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="206_215_qtm18c.sln" Description="Converted">
+</Event></UpgradeLog>

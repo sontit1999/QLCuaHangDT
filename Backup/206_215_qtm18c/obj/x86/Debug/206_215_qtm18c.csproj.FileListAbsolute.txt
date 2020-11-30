@@ -1,0 +1,16 @@
+D:\nam18c\QuanLyCuaHangDT\Backup\206_215_qtm18c\obj\x86\Debug\Interop.VBIDE.dll
+D:\nam18c\QuanLyCuaHangDT\Backup\206_215_qtm18c\obj\x86\Debug\206_215_qtm18c.csproj.ResolveComReference.cache
+D:\nam18c\QuanLyCuaHangDT\Backup\206_215_qtm18c\bin\Debug\206_215_qtm18c.exe
+D:\nam18c\QuanLyCuaHangDT\Backup\206_215_qtm18c\bin\Debug\206_215_qtm18c.pdb
+D:\nam18c\QuanLyCuaHangDT\Backup\206_215_qtm18c\obj\x86\Debug\_206_215_qtm18c.frmDMDienThoai.resources
+D:\nam18c\QuanLyCuaHangDT\Backup\206_215_qtm18c\obj\x86\Debug\_206_215_qtm18c.frmDMKhachHang.resources
+D:\nam18c\QuanLyCuaHangDT\Backup\206_215_qtm18c\obj\x86\Debug\_206_215_qtm18c.frmHoadonBan.resources
+D:\nam18c\QuanLyCuaHangDT\Backup\206_215_qtm18c\obj\x86\Debug\_206_215_qtm18c.frmDMNhaCC.resources
+D:\nam18c\QuanLyCuaHangDT\Backup\206_215_qtm18c\obj\x86\Debug\_206_215_qtm18c.frmTimHDBan.resources
+D:\nam18c\QuanLyCuaHangDT\Backup\206_215_qtm18c\obj\x86\Debug\_206_215_qtm18c.frmLogin.resources
+D:\nam18c\QuanLyCuaHangDT\Backup\206_215_qtm18c\obj\x86\Debug\_206_215_qtm18c.frmMain.resources
+D:\nam18c\QuanLyCuaHangDT\Backup\206_215_qtm18c\obj\x86\Debug\_206_215_qtm18c.frmDMNhanVien.resources
+D:\nam18c\QuanLyCuaHangDT\Backup\206_215_qtm18c\obj\x86\Debug\_206_215_qtm18c.Properties.Resources.resources
+D:\nam18c\QuanLyCuaHangDT\Backup\206_215_qtm18c\obj\x86\Debug\206_215_qtm18c.csproj.GenerateResource.Cache
+D:\nam18c\QuanLyCuaHangDT\Backup\206_215_qtm18c\obj\x86\Debug\206_215_qtm18c.exe
+D:\nam18c\QuanLyCuaHangDT\Backup\206_215_qtm18c\obj\x86\Debug\206_215_qtm18c.pdb
